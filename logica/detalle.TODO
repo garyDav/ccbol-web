@@ -1,0 +1,25 @@
+Ocupacion:
+  Estudiante:
+    ☐ CI
+    ☐ CU
+    ☐ Universidad
+  Profecional:
+    ☐ CI
+    ☐ Profesion
+  /*fecha de registro*/
+    ☐ Foto de deposito
+@recibir
+{
+  nombre: "",
+  apellido: "",
+  genero: "",
+  correo: "",
+  departamento: "",
+  celular: ""
+}
+@enviar
+{
+  id: "" -> (encriptado)
+}
+
+
